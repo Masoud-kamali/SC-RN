@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dd8ed5c-7fa8-4d12-954f-6e9ad8aaf87a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1sWCj3q7a32IakZgmTID8Cb0rrA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../React/Server" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Thesis\5-Application\Project\scDapps_truffle\client\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Thesis\5-Application\Project\scDapps_truffle\client" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dd8ed5c-7fa8-4d12-954f-6e9ad8aaf87a" name="Default Changelist" comment="" />
+      <created>1620979089638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620979089638</updated>
+      <workItem from="1620979091169" duration="9908000" />
+      <workItem from="1621155412563" duration="11163000" />
+      <workItem from="1621172988265" duration="77000" />
+      <workItem from="1621173077403" duration="5000" />
+      <workItem from="1621403068551" duration="9541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1621427211107">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621427211106" />
+    <state width="745" height="210" key="GridCell.Tab.0.bottom" timestamp="1620996476961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620996476961" />
+    <state width="745" height="210" key="GridCell.Tab.0.center" timestamp="1620996476961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620996476961" />
+    <state width="745" height="210" key="GridCell.Tab.0.left" timestamp="1620996476961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620996476961" />
+    <state width="745" height="210" key="GridCell.Tab.0.right" timestamp="1620996476961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620996476961" />
+    <state x="0" y="58" key="SettingsEditor" timestamp="1621173064699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621173064699" />
+    <state x="80" y="147" width="633" height="536" key="find.popup" timestamp="1621408314169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="80" y="147" width="633" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1621408314169" />
+  </component>
+</project>
